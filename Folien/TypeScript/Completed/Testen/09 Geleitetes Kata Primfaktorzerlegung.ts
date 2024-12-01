@@ -1,5 +1,4 @@
 // -*- coding: utf-8 -*-
-// %%
 // %% [markdown]
 //
 // <div style="text-align:center; font-size:200%;">
