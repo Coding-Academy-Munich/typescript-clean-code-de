@@ -287,7 +287,7 @@ class OrderProcessor {
 //
 // Falls Sie die Aufgabe lieber in Ihrer gewohnten Entwicklungsumgebung
 // bearbeiten möchten, finden Sie den Code im Verzeichnis
-// `code/starter_kits/salaries_sk`.
+// `Code/StarterKits/SalariesSk`.
 //
 // *Tipp:* Beginnen Sie damit, die Variablen gemäß den Kommentaren umzubenennen,
 // um den Rest der Arbeit zu vereinfachen.
