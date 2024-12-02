@@ -1,10 +1,10 @@
 const lstDns: string[] = ["Mon", "Tue", "Wed", "Thu", "Fri"];
 
 function handleMoneyStuff(
-    iDow: number,
-    fSpd: number,
-    strN: string,
-    lstSlrs: number[]
+    iDow: number, // Day of week
+    fSpd: number, // Salary per day
+    strN: string, // Name of the person
+    lstSlrs: number[] // List of all salaries paid
 ): number {
     // Get the day of week from the list of days.
     // We count Sunday as 1, Monday as 2, etc. but the work week starts on Monday.
