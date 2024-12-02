@@ -147,4 +147,4 @@ function calculate(x: number, y: number, z: number): void {
 }
 
 // %%
-calculate(5, 3, 4);
+console.log(calculate(5, 3, 4));

@@ -146,7 +146,7 @@ class UserDataProcessor {
         // Calculate average age
         const totalAge = users.reduce((sum, user) => sum + user.age, 0);
         const averageAge = totalAge / users.length;
-    
+
         // Print report
         console.log("User Report:");
         for(const user of users) {
