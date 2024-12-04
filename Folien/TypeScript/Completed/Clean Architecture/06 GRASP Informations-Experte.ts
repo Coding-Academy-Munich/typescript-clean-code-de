@@ -111,7 +111,7 @@ class World {
         return World.fromLocationData(locationData);
     }
 
-    getLocationByName(name: string): Location | undefined {
+    getLocationByName(name: string): Location {
         return this.locations.get(name);
     }
 
